@@ -78,7 +78,7 @@ logo = """
 \033[1;93m          __/ |                        
 \033[1;93m         |___/                         
 \x1b[1;92m=============================
-\x1b[1;93m Author+Coder : Mr.Saifii     Sanwal Sheby  Muzamil Rajpoot       					  
+\x1b[1;93m Author: Mr.Saifii Sanwal Sheby Muzamil Rajpoot       					  
 \x1b[1;93m Whatsapp : 03010757171 / 03037952669
 \x1b[1;93m FaceBook : Mr.Saifii.99 / Muhammad Sanwal Sheby
 \x1b[1;92m=============================
